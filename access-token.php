@@ -1,7 +1,7 @@
 <?php
 // consumer key and secret
-$consumerKey = 'O0GCydr4wLTPFkLmzuUR2OIXmNFPHzKW';
-$consumerSecret = 'easwMa5WVnyJ0daW';
+$consumerKey = '';
+$consumerSecret = '';
 
 // access token url
 $access_token_url = 'https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials';
